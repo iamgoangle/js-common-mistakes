@@ -1,5 +1,9 @@
 In order to prevent common mistakes in JavaScript while coding, I am going to re-learn about common mistakes in basic JavaScript that probably forget or not aware.
 
+# Table of index
+[JS Hosting](https://github.com/iamgoangle/js-common-mistakes#js-hosting)
+[JS Closure](https://github.com/iamgoangle/js-common-mistakes#js-closure)
+
 # JS Hosting
 
 พฤติกรรมพื้นฐานของ ภาษา JS ที่ เคลื่อนย้าย declaration ไปสู่ข้างบนเองโดยอัตโนมัติ
