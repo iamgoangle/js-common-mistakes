@@ -3,6 +3,7 @@ In order to prevent common mistakes in JavaScript while coding, I am going to re
 # Table of index
 1. [JS Hosting](https://github.com/iamgoangle/js-common-mistakes#js-hosting)
 2. [JS Closure](https://github.com/iamgoangle/js-common-mistakes#js-closure)
+3. [Summary](https://github.com/iamgoangle/js-common-mistakes/blob/master/summary.md)
 
 # JS Hosting
 
